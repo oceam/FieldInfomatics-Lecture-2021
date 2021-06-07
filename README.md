@@ -48,7 +48,7 @@ Google Colaboratoryを利用する
 
 ### 03　雑草の生育期間を区別して分類器を作る（生育済み）(2020/5/25)
 
-<img src = "asset/hakidamegiku_IMG_4877_5.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfo-Lecture-2020/blob/master/notebook/weed_training_03.ipynb) <br>
+<img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfo-Lecture-2020/blob/master/notebook/weed_training_03.ipynb) <br>
 
 雑草の生育期間が生育済みのデータを用いて分類器を作成します。
 育成した雑草の種類はハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類です。  
@@ -57,7 +57,7 @@ Google Colaboratoryを利用する
 
 ### 04　科目が同じ品種をグループにして分類器を作る（生育済み）(2020/5/26)
 
-<img src = "asset/hakidamegiku_IMG_4877_5.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfo-Lecture-2020/blob/master/notebook/weed_training_04.ipynb) <br>
+<img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfo-Lecture-2020/blob/master/notebook/weed_training_04.ipynb) <br>
 
 雑草の生育期間が生育済みのデータを用いて分類器を作成します。
 ハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類の雑草のうち科目が同じのものを一つのclassにまとめるます。イネ科（イヌビエ、メヒシバ、オヒシバ）、キク科（ハキダメギク、コセンダングサ）とその他5種類に分けて分類器を作成します。  
