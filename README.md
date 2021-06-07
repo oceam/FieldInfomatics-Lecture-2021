@@ -30,11 +30,11 @@ Google Colaboratoryを利用する
 
 ### 01　雑草の生育期間を区別せずに分類器を作る(2020/5/25)
 
-<img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> <img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfo-Lecture-2020/blob/master/notebook/weed_training_01.ipynb) <br>
+<img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> <img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" /> <br>
 
 雑草の生育期間（芽生え・生育済み）を区別せずに分類器を作成します。
 育成した雑草の種類はハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類です。  
-
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfo-Lecture-2020/blob/master/notebook/weed_training_01.ipynb) 
 <br>  
 
 ### 02　雑草の生育期間を区別して分類器を作る（芽生え）(2020/5/25)
