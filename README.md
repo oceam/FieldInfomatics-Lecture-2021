@@ -5,8 +5,8 @@
 
 ## 質問は随時受け付けています ZoomのChatを活用ください　　
 #### NOTE:回数制限なし、記名なし、長さ制限なし
-#### 講義資料前半のPPTは[こちらから](https://drive.google.com/file/d/1uEqWchEzomL5aJkJfulluiyj5jdAykCR/view?usp=sharing)  
-#### 講義資料後半のPPTは[こちらから](https://drive.google.com/file/d/1NKECSIGJ7tAC9WS9QQNps0PYHjC48bRW/view?usp=sharing)  
+#### 講義資料前半のPPTは[こちらから](https://drive.google.com/file/d/1Gpe87RSfEZIcwKxziCUk481wSGWg3pre/view?usp=sharing)  
+#### 講義資料後半のPPTは[こちらから](https://drive.google.com/file/d/1tR1ywxDg13xz-H8uCHhVWrBDMsPzz8_T/view?usp=sharing)  
 
 [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
 ### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
