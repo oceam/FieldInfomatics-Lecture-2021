@@ -26,7 +26,7 @@ Google Colaboratoryを利用する
 <br>  
 
 
-### 01　雑草の生育期間を区別せずに分類器を作る(2020/5/25)
+### 01　雑草の生育期間を区別せずに分類器を作る(2021修正)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> <img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" />[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfomatics-Lecture-2021/blob/master/notebook/weed_training_01.ipynb) <br>
 
@@ -35,7 +35,7 @@ Google Colaboratoryを利用する
 
 <br>  
 
-### 02　雑草の生育期間を区別して分類器を作る（芽生え）(2020/5/25)
+### 02　雑草の生育期間を区別して分類器を作る（芽生え）(2021修正)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfomatics-Lecture-2021/blob/master/notebook/weed_training_02.ipynb) <br>
 
@@ -44,7 +44,7 @@ Google Colaboratoryを利用する
 
 <br>  
 
-### 03　雑草の生育期間を区別して分類器を作る（生育済み）(2020/5/25)
+### 03　雑草の生育期間を区別して分類器を作る（生育済み）(2021修正)
 
 <img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfomatics-Lecture-2021/blob/master/notebook/weed_training_03.ipynb) <br>
 
@@ -53,7 +53,7 @@ Google Colaboratoryを利用する
 
 <br>  
 
-### 04　科目が同じ品種をグループにして分類器を作る（生育済み）(2020/5/26)
+### 04　科目が同じ品種をグループにして分類器を作る（生育済み）(2021修正)
 
 <img src = "asset/hakidamegiku_IMG_4877_5.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceam/FieldInfomatics-Lecture-2021/blob/master/notebook/weed_training_04.ipynb) <br>
 
