@@ -14,7 +14,10 @@
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
 we modified the training data and model for students with agriculture background.  
 modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer).
-
+  
+  <br>  
+  
+  
 ### ハンズオン1：深層学習を味わってみよう  
 #### 01　雑草の分類モデル見てみよう　
 - [Model avaiable here](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
@@ -22,6 +25,8 @@ modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-La
 
 
 #### 02　何か作ってみよう　[Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+  
+<br>  
 
 ### ハンズオン2：深層学習による雑草の分類
 Google Colaboratoryを利用する
