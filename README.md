@@ -3,12 +3,10 @@
 講義サポート ページ  
 場所：オンライン
 
-## 質問は随時受け付けています ZoomのChatか　[ここクリック](https://forms.gle/hXRX8yZgCNfZq3sr8)　　
+## 質問は随時受け付けています ZoomのChatを活用ください　　
 #### NOTE:回数制限なし、記名なし、長さ制限なし
 #### 講義資料前半のPPTは[こちらから](https://drive.google.com/file/d/1uEqWchEzomL5aJkJfulluiyj5jdAykCR/view?usp=sharing)  
-[印刷用バージョン](https://drive.google.com/file/d/1ZBpS4JlzQ4BFdvhtFEoEn9Z9h5X0vtGE/view?usp=sharing)
 #### 講義資料後半のPPTは[こちらから](https://drive.google.com/file/d/1NKECSIGJ7tAC9WS9QQNps0PYHjC48bRW/view?usp=sharing)  
-[印刷用バージョン](https://drive.google.com/file/d/1uk7iYQt0fGpz6vDqikiUh8umn859lT9V/view?usp=sharing)
 
 [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
 ### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
